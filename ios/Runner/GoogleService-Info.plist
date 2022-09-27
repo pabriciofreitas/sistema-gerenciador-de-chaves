@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>277091199127-3jicbf33s857e6ksvdpeg3oi6j1uu6d4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.277091199127-3jicbf33s857e6ksvdpeg3oi6j1uu6d4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzOEDhkhij0Fq_nw_nWY5K-GD7cXG2lR8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>277091199127</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chave</string>
+	<key>PROJECT_ID</key>
+	<string>chave-d2009</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chave-d2009.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:277091199127:ios:2eb6be289d1d1bf3ca21d2</string>
+</dict>
+</plist>

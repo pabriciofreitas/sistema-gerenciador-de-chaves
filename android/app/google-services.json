@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "277091199127",
+    "project_id": "chave-d2009",
+    "storage_bucket": "chave-d2009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277091199127:android:fec090efab4212f5ca21d2",
+        "android_client_info": {
+          "package_name": "com.example.chave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277091199127-tadu9kq9spaftl9nhsspjdrobdjaaesr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVFRpyeRhEDaWThQi7Lh-Z63oSMnNH4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277091199127-tadu9kq9spaftl9nhsspjdrobdjaaesr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277091199127-3jicbf33s857e6ksvdpeg3oi6j1uu6d4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chave"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
