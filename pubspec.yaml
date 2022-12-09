@@ -32,7 +32,7 @@ dependencies:
 
 
   
-  
+  brasil_fields: ^1.8.0
   cupertino_icons: ^1.0.2
   dependencies:
   get: ^4.6.5

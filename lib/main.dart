@@ -1,3 +1,4 @@
+import 'package:chave/signup/signup_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -30,18 +31,18 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.green,
       ),
       defaultTransition: Transition.rightToLeft,
-      transitionDuration: const Duration(milliseconds: 200),
+      transitionDuration: const Duration(milliseconds: 500),
       initialRoute: '/login',
       getPages: [
         GetPage(
           name: '/login',
           page: () => LoginScreen(),
         ),
-        // GetPage(
-        //   name: '/signup',
-        //   page: () => SignUpScreen(),
-        //   binding: UserBinding(),
-        // ),
+        GetPage(
+          name: '/signup',
+          page: () => SignUpScreen(),
+     
+        ),
       ],
     );
   }
